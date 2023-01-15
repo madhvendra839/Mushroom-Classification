@@ -1,0 +1,108 @@
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 930-324-561
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 930-324-561
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 930-324-561
+INFO:werkzeug: * Detected change in 'C:\\Users\\madhv\\OneDrive\\Desktop\\Mushroom classificayion\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+DEBUG:simpleExample:debug message
+INFO:simpleExample:info message
+WARNING:simpleExample:warn message
+ERROR:simpleExample:error message
+CRITICAL:simpleExample:critical message
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 930-324-561
+INFO:werkzeug: * Detected change in 'c:\\Users\\madhv\\OneDrive\\Desktop\\Mushroom classificayion\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
